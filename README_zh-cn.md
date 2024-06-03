@@ -36,9 +36,9 @@ conda install kikuchipy -c conda-forge
 
 当然您还可以访问[PyPI](https://pypi.org/project/kikuchipy)，
 [Anaconda](https://anaconda.org/conda-forge/kikuchipy)，或
-[GitHub](https://github.com/pyxem/kikuchipy)去下载源代码.
+[GitHub](https://github.com/pyxem/kikuchipy)去下载源代码。
 
-更多详细信息请参阅[安装指南](https://kikuchipy.org/en/latest/user/installation.html).
+更多详细信息请参阅[安装指南](https://kikuchipy.org/en/latest/user/installation.html)。
 
 ## 引用kikuchipy
 
@@ -77,5 +77,4 @@ conda install kikuchipy -c conda-forge
 
 该项目遵循[贡献者规范](https://github.com/all-contributors/all-contributors)。
 欢迎任何形式的贡献！请参阅我们的
-[贡献者指南](https://kikuchipy.org/en/latest/dev/index.html)，了解有关如何更好的贡献,（或者只是在某个
-[问题](https://github.com/pyxem/kikuchipy/issues/new)中解释您想做什么）。
+[贡献者指南](https://kikuchipy.org/en/latest/dev/index.html)，了解有关如何更好的贡献,（或者只是在某个[问题](https://github.com/pyxem/kikuchipy/issues/new)中解释您想做什么）。
