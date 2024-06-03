@@ -16,7 +16,7 @@ kikuchipy [ki-ko-chi-pai] 是一个用Python编写的用于处理、模拟和索
 | **Community**     | [![Gitter chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pyxem/kikuchipy) | [![GitHub discussion](https://img.shields.io/badge/GitHub-Discussions-green?logo=github)](https://github.com/pyxem/kikuchipy/discussions) |
 | **License**       | [![License](https://img.shields.io/github/license/pyxem/kikuchipy)](https://opensource.org/licenses/GPL-3.0) |
 
-## 文档
+## 文档[English](README.md)
 
 请参阅[文档](https://kikuchipy.org)了解详细的安装说明、用户指南和[变更日志](https://kikuchipy.org/en/latest/changelog.html)。
 
