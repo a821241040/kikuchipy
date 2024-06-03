@@ -22,26 +22,25 @@ kikuchipy [ki-ko-chi-pai] 是一个用Python编写的用于处理、模拟和索
 
 ## 安装
 
-kikuchipy can be installed with `pip`:
+kikuchipy可以通过`pip`安装：
 
 ```bash
 pip install kikuchipy
 ```
 
-or `conda`:
+或者 `conda`:
 
 ```bash
 conda install kikuchipy -c conda-forge
 ```
 
-You can also visit [PyPI](https://pypi.org/project/kikuchipy),
-[Anaconda](https://anaconda.org/conda-forge/kikuchipy), or
-[GitHub](https://github.com/pyxem/kikuchipy) to download the source.
+当然您还可以访问[PyPI](https://pypi.org/project/kikuchipy)，
+[Anaconda](https://anaconda.org/conda-forge/kikuchipy)，或
+[GitHub](https://github.com/pyxem/kikuchipy)去下载源代码.
 
-Further details are available in the
-[installation guide](https://kikuchipy.org/en/latest/user/installation.html).
+更多详细信息请参阅[安装指南](https://kikuchipy.org/en/latest/user/installation.html).
 
-## Citing kikuchipy
+## 引用kikuchipy
 
 If you are using kikuchipy in your scientific research, please help our scientific
 visibility by citing the Zenodo DOI: https://doi.org/10.5281/zenodo.3597646.
