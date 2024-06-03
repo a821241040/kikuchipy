@@ -4,7 +4,7 @@
   </a>
 </div>
 
-kikuchipy [ki-ko-chi-pai] 是一个用 Python 编写的用于处理、模拟和索引电子背散射衍射 (EBSD) 图案的库，它基于HyperSpy库提供的多维数据分析工具构建。.
+kikuchipy [ki-ko-chi-pai] 是一个用Python编写的用于处理、模拟和索引电子背散射衍射(EBSD)图案的库，基于HyperSpy库提供的多维数据分析工具构建。
 
 | Deployment    | [![PyPI version](https://img.shields.io/pypi/v/kikuchipy.svg?logo=python&logoColor=white)](https://pypi.org/project/kikuchipy/) | [![Anaconda version](https://img.shields.io/conda/vn/conda-forge/kikuchipy.svg?logo=conda-forge&logoColor=white)](https://anaconda.org/conda-forge/kikuchipy)|
 | :- | :- | :- |
@@ -16,13 +16,11 @@ kikuchipy [ki-ko-chi-pai] 是一个用 Python 编写的用于处理、模拟和�
 | **Community**     | [![Gitter chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pyxem/kikuchipy) | [![GitHub discussion](https://img.shields.io/badge/GitHub-Discussions-green?logo=github)](https://github.com/pyxem/kikuchipy/discussions) |
 | **License**       | [![License](https://img.shields.io/github/license/pyxem/kikuchipy)](https://opensource.org/licenses/GPL-3.0) |
 
-## Documentation
+## 文档
 
-Refer to the [documentation](https://kikuchipy.org) for detailed installation
-instructions, a user guide, and the
-[changelog](https://kikuchipy.org/en/latest/changelog.html).
+请参阅[文档](https://kikuchipy.org)了解详细的安装说明、用户指南和[变更日志](https://kikuchipy.org/en/latest/changelog.html)。
 
-## Installation
+## 安装
 
 kikuchipy can be installed with `pip`:
 
