@@ -42,12 +42,11 @@ conda install kikuchipy -c conda-forge
 
 ## 引用kikuchipy
 
-If you are using kikuchipy in your scientific research, please help our scientific
-visibility by citing the Zenodo DOI: https://doi.org/10.5281/zenodo.3597646.
+如果您在科学研究中使用kikuchipy，请引用DOI: https://doi.org/10.5281/zenodo.3597646 来帮我们提高知名度。
 
-## Contributors ✨
+## 贡献者 ✨
 
-Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+感谢这些优秀的人([emoji](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -76,8 +75,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
-Contributions of any kind welcome! Please see our
-[contributing guide](https://kikuchipy.org/en/latest/dev/index.html) for information
-on how best to contribute (or just explain what you want to do
-[in an issue](https://github.com/pyxem/kikuchipy/issues/new)).
+该项目遵循[贡献者规范](https://github.com/all-contributors/all-contributors)。
+欢迎任何形式的贡献！请参阅我们的
+[贡献者指南](https://kikuchipy.org/en/latest/dev/index.html)，了解有关如何更好的贡献，（或者只是解释您想在某个
+[问题](https://github.com/pyxem/kikuchipy/issues/new)中做了什么）。
